@@ -204,3 +204,10 @@ Veja o arquivo **LICENSE** para mais detalhes.
 Desenvolvido com ❤️ por **Pedro Lombardi**
 
 Se este projeto foi útil para você, considere dar uma ⭐ no repositório!
+
+---
+
+<p align="center"><a href="https://github.com/lucenarenato/nutri-naty-ai" target="_blank"><img src="1.jpeg" width="400" alt="prints"></a></p>
+<p align="center"><a href="https://github.com/lucenarenato/nutri-naty-ai" target="_blank"><img src="2.jpeg" width="400" alt="prints"></a></p>
+<p align="center"><a href="https://github.com/lucenarenato/nutri-naty-ai" target="_blank"><img src="3.jpeg" width="400" alt="prints"></a></p>
+<p align="center"><a href="https://github.com/lucenarenato/nutri-naty-ai" target="_blank"><img src="4.jpeg" width="400" alt="prints"></a></p>
